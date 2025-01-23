@@ -13,6 +13,13 @@ This Python script is a simple yet effective password strength checker. It evalu
 ## Requirements
 - Python 3.x
 
+## Tools and Libraries
+This project uses the following tools and libraries:
+- **Python 3.x** – The core programming language used for the implementation.
+- **`re`** – Used for regular expression-based validation of password complexity.
+- **`json`** – For handling data structures and common password lists (if JSON format is used).
+- **`string`** – Provides character classes like uppercase, lowercase, digits, and punctuation for password analysis.
+
 ## Usage
 Run the script from the command line:
 ```
